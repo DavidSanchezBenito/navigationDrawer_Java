@@ -20,5 +20,10 @@
             android:id="@+id/greenFragment"
             android:icon="@drawable/ic_menu_slideshow"
             android:title="menu_verde" />
+
+        <item
+            android:id="@+id/redFragment"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="menu_rojo" />
     </group>
 </menu>
